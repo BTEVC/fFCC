@@ -41,6 +41,50 @@ figure[data-name="formTy"] > div.character-sprites {
 	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
 	background-color:#311d04;
 }
+figure[data-name="knowTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#2a3124;
+}
+figure[data-name="nuTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#002e31;
+}
+figure[data-name="museTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#2b1a31;
+}
+figure[data-name="spinTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#2b1a31;
+}
+figure[data-name="leviTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#193131;
+}
+figure[data-name="bookTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#1f1931;
+}
+figure[data-name="feelTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#033100;
+}
+figure[data-name="crèmTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#310000;
+}
+figure[data-name="rightTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#2a1d1d;
+}
+figure[data-name="massTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#1f0700;
+}
+figure[data-name="panTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:black;
+}
 
 	
 
