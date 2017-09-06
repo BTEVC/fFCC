@@ -14,13 +14,10 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 	background-size: 140px 147px; background-position: 0 0; 
 }
 
-.herobox {
-	background-color: #434343;
+figure[data-name="unTy"] {
+	background-image: url(http://imgur.com/P1H9h1j.png);
 }
 
-.noBackgroundImage {
-	background-color: #434343;
-}
 	
 
 
