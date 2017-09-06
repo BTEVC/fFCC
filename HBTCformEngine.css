@@ -15,23 +15,22 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 }
 
 div.character-sprites { 
-	position: absolute;
-	width:100%; 
-	height: 100%; 
-	top: 0px; 
-	margin: 50%px 0 0 50%;
 }
 
 figure[data-name="unTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
 	background-color:#434343;
 }
 figure[data-name="keepTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
 	background-color:#312727;
 }
 figure[data-name="liberTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
 	background-color:#032231;
 }
 figure[data-name="floTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
 	background-color:#312c0a;
 }
 	
