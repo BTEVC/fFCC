@@ -23,13 +23,17 @@ div.character-sprites {
 }
 
 figure[data-name="unTy"] > div.character-sprites {
-	  background-color:#434343;
+	background-color:#434343;
 }
-
 figure[data-name="keepTy"] > div.character-sprites {
-	  background-color:#312727;
+	background-color:#312727;
 }
-
+figure[data-name="liberTy"] > div.character-sprites {
+	background-color:#032231;
+}
+figure[data-name="floTy"] > div.character-sprites {
+	background-color:#312c0a;
+}
 	
 
 
