@@ -18,6 +18,10 @@ figure[data-name="unTy"] {
 	background-image: url(http://imgur.com/P1H9h1j.png);
 }
 
+div.character-sprites {
+	position:absolute; background-color:black; width:100%; height: 100%; top: 0px;
+}
+
 	
 
 
