@@ -14,8 +14,20 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 	background-size: 140px 147px; background-position: 0 0; 
 }
 
+div.character-sprites { 
+	position: absolute;
+	width:100%; 
+	height: 100%; 
+	top: 0px; 
+	margin: 50%px 0 0 50%;
+}
+
 figure[data-name="unTy"] > div.character-sprites {
-	 position: absolute; background-color:#434343; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	  background-color:#434343;
+}
+
+figure[data-name="keepTy"] > div.character-sprites {
+	  background-color:#312727;
 }
 
 	
