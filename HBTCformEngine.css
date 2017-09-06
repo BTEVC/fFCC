@@ -33,6 +33,15 @@ figure[data-name="floTy"] > div.character-sprites {
 	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
 	background-color:#312c0a;
 }
+figure[data-name="coTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#31002f;
+}
+figure[data-name="formTy"] > div.character-sprites {
+	position: absolute; width:100%; height: 100%; top: 0px; margin: 50%px 0 0 50%;
+	background-color:#311d04;
+}
+
 	
 
 
