@@ -14,4 +14,8 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 	background-size: 140px 147px; background-position: 0 0; 
 }
 
+figure[name="unTy"] {
+	background-color: #434343;
+}
+
 
