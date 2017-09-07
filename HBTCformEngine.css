@@ -1,5 +1,9 @@
 body { background-color:#262626; }
 
+input[type="text"], textarea {
+  	background-color : #262626;; 
+}
+
 .col-md-12.exp-chart, .header-wrap, .filters, .toolbar, .task-column, .tab-content, .alert-danger, .ui-pnotify .ui-pnotify-shadow, .modal-content, .selected-class, .modal-content.ng-scope, .options-menu, .customize-menu,.toolbar-mobile > div{
 	background-color:#262626;
 	border-color: black;
