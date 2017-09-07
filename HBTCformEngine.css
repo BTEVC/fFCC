@@ -24,6 +24,9 @@ div[class="hero-stats"] {
 div[class="row"] {
 	background-color: #262626;
 }
+div[class="task-column] {
+	background-color: black;
+}
 
 
 div.character-sprites { 
