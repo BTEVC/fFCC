@@ -20,6 +20,9 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 div[class="hero-stats"] {
 	background-color: #262626;
 }
+div[class="row"] {
+	background-color: #262626;
+}
 
 
 div.character-sprites { 
