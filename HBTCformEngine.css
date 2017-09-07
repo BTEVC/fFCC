@@ -15,7 +15,10 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 }
 
 .header-wrap.ng-scope {
-	background-color: black;
+	background-color: #262626;
+}
+div[class="hero-stats"] {
+	background-color: #262626;
 }
 
 
