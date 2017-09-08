@@ -7,7 +7,7 @@ input[type="text"], textarea {
 .col-md-12.exp-chart, .header-wrap, .filters, .toolbar, .task-column, .tab-content, .alert-danger, .ui-pnotify .ui-pnotify-shadow, .modal-content, .selected-class, .modal-content.ng-scope, .options-menu, .customize-menu,.toolbar-mobile > div{
 	background-color:#262626;
 	border-color: black;
-	mix-blend-mode: exclusion;
+	mix-blend-mode: difference;
 }
 
 span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_flower_2 + span.ng-scope,span.hair_flower_3 + span.ng-scope,span.hair_flower_4 + span.ng-scope,span.hair_flower_5 + span.ng-scope,span.hair_flower_6 + span.ng-scope {
