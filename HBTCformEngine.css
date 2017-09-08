@@ -12,7 +12,7 @@ input[type="text"], textarea {
 }
 
 span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_flower_2 + span.ng-scope,span.hair_flower_3 + span.ng-scope,span.hair_flower_4 + span.ng-scope,span.hair_flower_5 + span.ng-scope,span.hair_flower_6 + span.ng-scope {
-	opacity:1;left:20px;top:30px;zoom:1; opacity: 1;
+	opacity:1;left:20px;top:30px;zoom:1; 
 }
 
 .current-mount {
@@ -42,6 +42,10 @@ div[class="dailys"] {
 
 
 div.character-sprites { 
+}
+
+figure { 
+	opacity: 1 !important;
 }
 
 figure[data-name="unTy"] > div.character-sprites {
