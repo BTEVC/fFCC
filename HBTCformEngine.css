@@ -26,6 +26,10 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 	background-size: 140px 147px; background-position: 0 0; 
 }
 
+.header-wrap > figure { 
+	opacity: 1 !important;
+}
+
 .header-wrap.ng-scope {
 	background-color: #262626;
 }
@@ -42,10 +46,6 @@ div[class="dailys"] {
 
 
 div.character-sprites { 
-}
-
-.header-wrap { 
-	opacity: 1 !important;
 }
 
 figure[data-name="unTy"] > div.character-sprites {
