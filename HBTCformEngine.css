@@ -36,6 +36,7 @@ span.hair_flower_0 + span.ng-scope,span.hair_flower_1 + span.ng-scope,span.hair_
 div[class="hero-stats"] {
 	background-color: #262626;
 	border: none;
+	opacity: .7 !important;
 }
 div[class="row"] {
 	background-color: #262626;
