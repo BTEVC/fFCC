@@ -8,6 +8,7 @@ body { background-color:#262626; }
 	background-color:#262626;
 	border-color: black;
 	//mix-blend-mode: difference;
+	color: red;
 	opacity: .7;
 }
 
