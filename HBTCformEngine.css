@@ -16,7 +16,7 @@ input[type="text"], textarea {
 	background-color:#262626;
 	border-color: black;
 	//mix-blend-mode: difference;
-	color: white;
+	color: #5b7777;
 	opacity: .7;
 }
 
