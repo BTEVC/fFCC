@@ -8,7 +8,7 @@ body { background-color:#262626; }
 	background-color:#262626;
 }
 
-.toolbar-button > a {
+a[ui-sref="tasks"] {
 	background-color : black !important; 
 }
 
