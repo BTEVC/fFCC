@@ -25,7 +25,7 @@ ul[class="task-filter"] {
 	background-color:black !important;
 }
 
-button {
+button[type="submit"] {
 	background-color:black !important;
 }
 
