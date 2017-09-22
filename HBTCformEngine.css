@@ -8,6 +8,10 @@ body { background-color:#262626; }
 	background-color:#262626;
 }
 
+toolbar-button > a {
+	background-color : black !important; 
+}
+
 input[type="text"], textarea {
   	background-color : #262626 !important; 
 }
