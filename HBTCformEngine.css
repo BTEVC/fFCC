@@ -21,7 +21,7 @@ input[type="text"], textarea {
 }
 
 
-.task-filter {
+ul[class="task-filter"] {
 	background-color:black !important;
 }
 
