@@ -8,7 +8,7 @@ body { background-color:#262626; }
 	background-color:#262626;
 }
 
-toolbar-button > a {
+.toolbar-button > a {
 	background-color : black !important; 
 }
 
